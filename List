@@ -1,0 +1,5 @@
+# List example
+fruits = ["apple", "banana", "cherry"]
+fruits[1] = "orange"  # Modifying
+fruits.append("mango")  # Adding
+print(fruits)  # ['apple', 'orange', 'cherry', 'mango']
